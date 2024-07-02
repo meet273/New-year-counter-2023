@@ -3,7 +3,7 @@ let hoursel = document.getElementById("hours")
 let minsel = document.getElementById("mins")
 let secondel = document.getElementById("second")
 
-const newyear = "1 jan 2023"
+const newyear = "1 jan 2025"
 
 function countdown() {
 
